@@ -1,0 +1,8 @@
+com\controllers\MainController.class
+com\validation\EmailConstrainValidator.class
+com\candidjava\spring\configuration\SpringWebIntializer.class
+com\candidjava\spring\configuration\SpringConfiguration.class
+com\pojos\User.class
+com\pojos\UserDao.class
+com\pojos\DataConn.class
+com\validation\Email.class
